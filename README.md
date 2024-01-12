@@ -26,3 +26,15 @@
 |NumberOfChildrenVisiting |Total number of children with age less than 5 planning to take the trip with the customer|
 |Designation |Designation of the customer in the current organization|
 |MonthlyIncome |Gross monthly income of the customer|
+
+## Table of Contents
+* [Exploratory Data Analysis](#section-one)
+    - [Import Libraries and Dataset](#subsection-one)
+    - [Descriptive Statistics](#subsection-two)
+    - [EDA Conclusion](#subsection-three)
+* [Business Insights](#section-two)
+* [Data Preprocessing](#section-three)
+    - [Feature Engineering](#subsection-five)
+    - [Split Data Train and Data Test](#subsection-six)
+* [Machine Learning Modelling](#section-four)
+    - [Hyperparameter Tuning](#subsection-eight)
