@@ -37,4 +37,4 @@
     - [Feature Engineering](TravelAnalysis.ipynb#subsection-five)
     - [Split Data Train and Data Test](TravelAnalysis.ipynb#subsection-six)
 * [Machine Learning Modelling](TravelAnalysis.ipynb#section-four)
-    - [Hyperparameter Tuning](TravelAnalysis.ipynb#subsection-eight)
+    - [Hyperparameter Tuning](TravelAnalysis.ipynb#Hyperparameter-Tuning)
