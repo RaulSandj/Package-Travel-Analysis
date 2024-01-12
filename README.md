@@ -28,7 +28,7 @@
 |MonthlyIncome |Gross monthly income of the customer|
 
 ## Table of Contents
-* [Exploratory Data Analysis]((TravelAnalysis.ipynb)#section-one)
+* [Exploratory Data Analysis](TravelAnalysis.ipynb#section-one)
     - [Import Libraries and Dataset](#subsection-one)
     - [Descriptive Statistics](#subsection-two)
     - [EDA Conclusion](#subsection-three)
