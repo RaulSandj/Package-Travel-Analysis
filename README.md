@@ -26,15 +26,3 @@
 |NumberOfChildrenVisiting |Total number of children with age less than 5 planning to take the trip with the customer|
 |Designation |Designation of the customer in the current organization|
 |MonthlyIncome |Gross monthly income of the customer|
-
-## Table of Contents
-* [Exploratory Data Analysis](TravelAnalysis.ipynb#section-one)
-    - [Import Libraries and Dataset](TravelAnalysis.ipynb#subsection-one)
-    - [Descriptive Statistics](TravelAnalysis.ipynb#subsection-two)
-    - [EDA Conclusion](TravelAnalysis.ipynb#subsection-three)
-* [Business Insights](TravelAnalysis.ipynb#section-two)
-* [Data Preprocessing](TravelAnalysis.ipynb#section-three)
-    - [Feature Engineering](TravelAnalysis.ipynb#subsection-five)
-    - [Split Data Train and Data Test](TravelAnalysis.ipynb#subsection-six)
-* [Machine Learning Modelling](TravelAnalysis.ipynb#section-four)
-    - [Hyperparameter Tuning](TravelAnalysis.ipynb#Hyperparameter-Tuning)
